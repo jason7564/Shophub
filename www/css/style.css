@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+#checkBox {
+   display: inline-block;
+   margin-left: -5px;
+    margin-top: -18px;
+   float: left; 
+}
+
+#listTxt {
+    margin: 0 0 -2px 20px;
+    font-size: 22px;
+    
+}
+
+legend {
+    text-align: center;
+}
+
+.bin2 {
+    display: inline;
+}
+
+#addBtn {
+    width: 25%;
+    display: inline-block;
+}
+
+.bin {
+    width: 70%;
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+#lview {
+    margin-top: -17px;
+}
+
+li {
+    display: inline-block;
+}
+
+
+
+
